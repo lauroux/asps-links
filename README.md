@@ -2,7 +2,7 @@
 Simple links page for the Australian Society of Plant Scientists (ASPS) - connecting to our website, newsletter, and social medias.
 
 # Live Site
-View the site here: https://lauroux.github.io/asps-links/
+View the site here: https://asps-oz.github.io/asps-links/
 
 # Built With
 - HTML5
