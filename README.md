@@ -16,7 +16,7 @@ View the site here: https://lauroux.github.io/asps-links/
 - Social Media: Bluesky, LinkedIn, Twitter/X
 
 # Author
-Created by Lucas Auroux for ASPS
+Created by Lucas Auroux for ASPS.
 
 # License
 MIT License
